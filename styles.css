@@ -69,7 +69,7 @@ h1 {
     margin: 15% auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 30%;
+    width: 40%;
 }
 
 .modal-content button {
@@ -100,10 +100,7 @@ h1 {
         -o-border-radius: 10px;
 }
 
-table {
-    position: relative;
-    left: 170px;
-}
+
 
 .modal-content h2 {
     display: flex;
